@@ -1,7 +1,6 @@
 # dsa-autocompleter
 
-Developed an efficient autocompleter as part of my coursework, utilizing an AVL tree structure in C++. This project allowed me to explore dynamic string insertion into a dictionary, track the total number of entries, and retrieve the three most-frequent completions for given inputs, achieving O(1) time complexity for certain operations.
-
+Developed an efficient autocompleter as part of my coursework, utilizing an AVL tree structure in C++. This project allowed me to explore dynamic string insertion into a dictionary, track the total number of entries, and retrieve the three most-frequent completions for given inputs.
 Key features of the project include:
 - **Insertion Mechanism**: I implemented a trie-based structure to manage string completions, ensuring that the top three most frequent entries were updated with each new insertion.
 - **Count Management**: I maintained an accurate count of total entries, enabling quick retrieval of the size of the dictionary.
